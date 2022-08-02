@@ -431,6 +431,7 @@ footer .wep a {
         justify-content: space-between;
         width: 100%;
         align-items: center;
+ 
     }
 
     .footer__colum .col-6:nth-child(1) .boglan {
@@ -439,6 +440,9 @@ footer .wep a {
 
     .footer__colum .col-6:nth-child(1) .boglana {
         width: 300px;
+  
+        text-align: end;
+        font-size:20px;
         margin-top: 53px;
         margin-bottom: 40px;
     }
