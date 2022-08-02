@@ -385,6 +385,21 @@ footer .wep a {
 }
 
 @media only screen and (max-width:576px) {
+.hero__text h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    /* or 107% */
+
+    letter-spacing: -0.02em;
+
+    color: #000000;
+}
+    .dizipro{
+        margin-top: 144px;
+    }
     .dizipro .img {
 
         position: relative;
